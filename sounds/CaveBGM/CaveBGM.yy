@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"CaveBGM",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":73.41029,
+  "name":"CaveBGM",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"CaveBGM.wav",
+  "type":0,
+  "volume":1.0,
+}

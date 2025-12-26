@@ -1,0 +1,1 @@
+gamepad_index = 0;

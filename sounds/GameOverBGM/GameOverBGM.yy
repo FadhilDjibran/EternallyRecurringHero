@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"GameOverBGM",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":120.00363,
+  "name":"GameOverBGM",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"GameOverBGM.wav",
+  "type":0,
+  "volume":1.0,
+}

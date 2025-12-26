@@ -1,0 +1,1 @@
+if (instance_exists(ObjectPlayer)) ObjectPlayer.can_attack = true;

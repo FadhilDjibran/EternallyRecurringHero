@@ -1,0 +1,15 @@
+# GameMaker Studio 2 Ignores
+/options/
+/output/
+/*.yyp.converted
+/*.yyz
+/notes/
+
+# User specific files
+*.user
+*.dsk
+*.win
+
+# OS specific
+.DS_Store
+Thumbs.db

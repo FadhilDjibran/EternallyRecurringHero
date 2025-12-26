@@ -1,0 +1,1 @@
+damage_amount = 99999;

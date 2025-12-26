@@ -1,0 +1,12 @@
+gamepad_index = 0; 
+input_delay = 0; 
+in_options = false;
+in_controls = false;
+menu_options = ["START GAME", "OPTIONS", "CONTROLS", "EXIT"];
+menu_index = 0; 
+opt_options = ["SOUND: ", "BACK"];
+opt_index = 0;
+ctrl_options = ["BACK"];
+ctrl_index  = 0;
+gamepad_set_axis_deadzone(gamepad_index, 0.3);
+stick_held = false;
